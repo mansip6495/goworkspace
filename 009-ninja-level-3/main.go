@@ -13,7 +13,6 @@ func main()  {
 	// exercise7()
 	// exercise8()
 	// exercise9()
-	exercise10()
 }
 
 func exercise1()  {
@@ -94,8 +93,4 @@ func exercise9()  {
 	default:
 		fmt.Println("What would you like to do?")
 	}
-}
-
-func exercise10()  {
-	
 }
